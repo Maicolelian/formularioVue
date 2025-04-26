@@ -1,5 +1,5 @@
 # formulario
-
+formulario basico para agregar, nombre correo y edad
 ## Project setup
 ```
 npm install
